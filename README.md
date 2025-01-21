@@ -1,4 +1,6 @@
-<img src="cover1.png" alt="cover" style="display: flex; justify-content: center; align-items: center; height: 50vh;">
+<div align="center">
+  <img src="cover1.png" alt="cover" style="display: block; margin: 0 auto; width:50%;">
+</div>
 
 <h1 align="center">Who am i? Nawaf</h1>
 <h3 align="center">A semi-full-stack Developer, I tend to be more professional towards developing the front end.</h3>
