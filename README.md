@@ -1,4 +1,5 @@
-<img src="https://i.pinimg.com/736x/41/6e/d4/416ed4541d65874de63a6badaf983711.jpg" alt="cover" style="align-content: center; width: 100%;">
+<img src="https://i.pinimg.com/736x/00/15/15/001515eedc73732f53d9ba5db2f1774b.jpg" alt="cover" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+
 <h1 align="center">Who am i? Nawaf</h1>
 <h3 align="center">A semi-full-stack Developer, I tend to be more professional towards developing the front end.</h3>
 
