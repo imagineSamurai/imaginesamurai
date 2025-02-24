@@ -38,6 +38,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="46" height="34" alt="ko-fi logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="46" height="34" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="34" alt="instagram logo"  />
+  <a href="https://hybridipa-blog.web.app" target="_blank">
+    <img src="https://i.imgur.com/Wl9xGoK.png" width="34" height="34" alt="My website logo"  />
+  </a>
 </div>
 
 ###
@@ -46,7 +49,7 @@
 
 ###
 
-<p align="left">🖥️ Developer | 🔍 Reverse Engineering Learner<br> | 🛡️ Cybersecurity Explorer<br>I'm a self-taught developer passionate about enhancing technology, cybersecurity, and reverse engineering. My mission is to push the limits of tech innovation by optimizing performance, improving security, and understanding systems on a deeper level.</p>
+<p align="left">Hi, I'm Nawaf, a front-end developer driven by a passion for crafting clean, functional, and user-friendly web designs. I specialize in translating ideas into interactive, visually stunning websites that provide seamless user experiences.<br><br>With a strong foundation in HTML, CSS, and JavaScript, I bring creative ideas to life while ensuring that every project is responsive and accessible across all devices. I enjoy experimenting with modern design trends and technologies, constantly pushing myself to deliver innovative and engaging solutions.</p>
 
 ###
 
