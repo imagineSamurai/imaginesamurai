@@ -32,21 +32,20 @@
 </div>
 
 ###
-
 <div align="left">
-    <a href="https://twitter.com/hybridipa" target="_blank">
+    <a href="https://twitter.com/hybridipa" target="_blank" style="text-decoration: none; display: inline-block;">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="46" height="34" alt="twitter logo"  />
     </a>
-    <a href="https://ko-fi.com/imaginesamurai" target="_blank">
+    <a href="https://ko-fi.com/imaginesamurai" target="_blank" style="text-decoration: none; display: inline-block;">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="46" height="34" alt="ko-fi logo"  />
     </a>
-    <a href="https://t.me/thecyberboy" target="_blank">
+    <a href="https://t.me/thecyberboy" target="_blank" style="text-decoration: none; display: inline-block;">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="46" height="34" alt="telegram logo"  />
     </a>
-    <a href="https://instagram.com/imaginesamurai" target="_blank">
+    <a href="https://instagram.com/imaginesamurai" target="_blank" style="text-decoration: none; display: inline-block;">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="34" alt="instagram logo"  />
     </a>
-    <a href="https://hybridipa-blog.web.app" target="_blank">
+    <a href="https://hybridipa-blog.web.app" target="_blank" style="text-decoration: none; display: inline-block;">
         <img src="https://i.imgur.com/Wl9xGoK.png" width="34" height="34" alt="My website logo"  />
     </a>
 </div>
